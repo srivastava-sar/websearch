@@ -1,2 +1,2 @@
 # websearch
-This repository is dedicated to websearch assignments
+This repository is dedicated to websearch assignments. 
